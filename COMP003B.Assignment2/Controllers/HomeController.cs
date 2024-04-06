@@ -22,6 +22,7 @@ namespace COMP003B.Assignment2.Controllers
         {
             return View();
         }
+
         public IActionResult About()
         {
             return View();
