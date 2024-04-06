@@ -25,6 +25,7 @@ namespace COMP003B.Assignment2.Controllers
         public IActionResult About()
         {
             return View();
+            
         }
 
         public IActionResult Hobbies()
